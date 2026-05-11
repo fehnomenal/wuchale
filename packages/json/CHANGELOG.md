@@ -1,5 +1,12 @@
 # @wuchale/json
 
+## 0.1.2
+
+### Patch Changes
+
+- Updated dependencies [[`5063533`](https://github.com/wuchalejs/wuchale/commit/5063533dbe518e0ffb3b105e035253801625d19e), [`6d5e244`](https://github.com/wuchalejs/wuchale/commit/6d5e244d9d0744d600d8e15933381934688eaf42)]:
+  - wuchale@0.24.0
+
 ## 0.1.1
 
 ### Patch Changes
